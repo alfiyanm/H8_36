@@ -70,7 +70,7 @@ pytz==2020.1
 PyWavelets==1.1.1
 pywin32==227
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.1
 requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 scikit-learn==0.23.2
